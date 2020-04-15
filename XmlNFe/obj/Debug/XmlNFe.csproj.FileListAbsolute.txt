@@ -50,3 +50,14 @@ D:\Cliente\OneDrive\Projetos\XmlNFe\XmlNFe\bin\Debug\XmlNFe.exe
 D:\Cliente\OneDrive\Projetos\XmlNFe\XmlNFe\bin\Debug\XmlNFe.pdb
 D:\Cliente\OneDrive\Projetos\XmlNFe\XmlNFe\obj\Debug\XmlNFe.FormDanfe.resources
 C:\Users\geraldo.silva\Downloads\XmlNFe\XmlNFe\obj\Debug\XmlNFe.FormDanfe.resources
+C:\Users\Cliente\Desktop\Clones\leitor_xml_nfe\XmlNFe\bin\Debug\XmlNFe.exe.config
+C:\Users\Cliente\Desktop\Clones\leitor_xml_nfe\XmlNFe\bin\Debug\XmlNFe.exe
+C:\Users\Cliente\Desktop\Clones\leitor_xml_nfe\XmlNFe\bin\Debug\XmlNFe.pdb
+C:\Users\Cliente\Desktop\Clones\leitor_xml_nfe\XmlNFe\obj\Debug\XmlNFe.csprojAssemblyReference.cache
+C:\Users\Cliente\Desktop\Clones\leitor_xml_nfe\XmlNFe\obj\Debug\XmlNFe.csproj.ResolveComReference.cache
+C:\Users\Cliente\Desktop\Clones\leitor_xml_nfe\XmlNFe\obj\Debug\XmlNFe.FormDanfe.resources
+C:\Users\Cliente\Desktop\Clones\leitor_xml_nfe\XmlNFe\obj\Debug\XmlNFe.Properties.Resources.resources
+C:\Users\Cliente\Desktop\Clones\leitor_xml_nfe\XmlNFe\obj\Debug\XmlNFe.csproj.GenerateResource.cache
+C:\Users\Cliente\Desktop\Clones\leitor_xml_nfe\XmlNFe\obj\Debug\XmlNFe.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\Clones\leitor_xml_nfe\XmlNFe\obj\Debug\XmlNFe.exe
+C:\Users\Cliente\Desktop\Clones\leitor_xml_nfe\XmlNFe\obj\Debug\XmlNFe.pdb
